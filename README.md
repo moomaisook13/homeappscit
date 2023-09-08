@@ -4,4 +4,4 @@
 A new Flutter project.
 
 
-<img src="homeex.png" width="550" height="550">
+<img src="homeex.png" width="450" height="550">
